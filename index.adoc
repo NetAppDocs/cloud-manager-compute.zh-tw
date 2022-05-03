@@ -1,0 +1,16 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+lead: View a cost analysis of your cloud compute spending and identify potential savings right from Cloud Manager. 
+summary: 檢視雲端運算支出的成本分析、找出Cloud Manager的潛在節約效益。 
+---
+= 運算文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

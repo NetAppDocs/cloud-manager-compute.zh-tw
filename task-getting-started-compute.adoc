@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: task-getting-started-compute.html 
+keywords: compute, cloud insights, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account 
+summary: 請完成幾個步驟、從 Spot Cloud Analyzer 的資訊區深入分析雲端運算成本。 
+---
+= 連接 Cloud Analyzer 至 AWS 帳戶
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+將Cloud Analyzer NetApp連結至AWS付款人帳戶、以便開始最佳化雲端運算成本。
+
+.步驟
+. 按一下 * 運算 * 。
+. 按一下 * 將 AWS 認證資料新增至 Start* 。
+. 請依照頁面上的步驟連線 AWS 帳戶：
++
+.. 登入AWS管理帳戶。
+.. 在 AWS 帳戶上設定成本與使用量報告。
+.. 執行 CloudForation 範本。
+.. 貼上 Spot 角色 ARN 。
++
+https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/["檢視這些步驟的詳細資料"^]。
+
++
+image:screenshot_compute_add_account.gif["顯示連線頁面上每個可用欄位的快照。"]
+
+
+
+
+
+從系統開始處理 AWS 帳戶資料。 Cloud Analyzer如果您有多個帳戶、Cloud Analyzer 那麼在管理帳戶下的所有連結帳戶、均以唯讀功能開始執行。如果您想要取得更多有關這些帳戶可能節約成本的詳細資料、您也需要將這些帳戶連結起來。當您連線帳戶時、您可以找到更多詳細資料 link:task-analyze-costs.html["分析您的運算成本"]。

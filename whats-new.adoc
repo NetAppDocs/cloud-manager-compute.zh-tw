@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
+summary: 瞭解運算服務的新功能。 
+---
+= 新功能
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+瞭解運算服務的新功能。
+
+
+
+== 2020年12月7日
+
+
+
+=== 在Cloud Manager和Spot之間進行導覽
+
+現在、您可以更輕鬆地在 Cloud Manager 和 Spot 之間進行瀏覽。
+
+全新的「 * 儲存作業 * 」區段可讓您直接導覽至 Cloud Manager 。完成後、您可以從 Cloud Manager 的 * Compute * 索引標籤找到答案。
+
+
+
+== 2020年10月18日
+
+
+
+=== 運算服務簡介
+
+善用資源 https://spot.io/products/cloud-analyzer/["Spot Cloud Analyzer 的功能"^]Cloud Manager現在可以針對您的雲端運算支出進行高階成本分析、並找出可能的節約效益。此資訊可從Cloud Manager * Compute *服務取得。
+
+https://docs.netapp.com/us-en/cloud-manager-compute/concept-compute.html["深入瞭解運算服務"]。
+
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/media/screenshot_compute_dashboard.gif["在Cloud Manager中顯示「成本分析」頁面的快照"]

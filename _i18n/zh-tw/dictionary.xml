@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="0110949a431061ee668054b5ab98627e" category="summary">連結帳戶之後、請檢視雲端運算成本分析、以深入瞭解過去、目前及未來的雲端成本。</block>
+  <block id="2a4220102e5972b56988182c09f604aa" category="doc">分析您的運算成本</block>
+  <block id="cbd3f934260df2829bad2ed4e0f06fd9" category="paragraph">連結帳戶後、請檢視雲端運算成本分析、深入瞭解過去、目前及未來的雲端成本。</block>
+  <block id="135dc5daa0877864eea105ddf0b69fac" category="section-title">檢視成本分析</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
+  <block id="83457133a0ef330b6cf07b6b359318bf" category="list-text">按一下 * 運算 * 。</block>
+  <block id="75f0eecd0fdb097a7d4b1e2f8e514d51" category="list-text">檢視成本分析、深入瞭解您的運算成本。</block>
+  <block id="08c7073117589917ae653b4ee85aa678" category="inline-image-macro">在 Cloud Manager 中顯示「成本分析」頁面的快照。本頁包含下列文字所述資訊。</block>
+  <block id="40c72762e79ce7a14f7f5fa9134f5541" category="paragraph"><block ref="40c72762e79ce7a14f7f5fa9134f5541" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3f994038d6dd09b875518b9b5d38a005" category="list-text">至今的月成本</block>
+  <block id="95a217721be0bcb767d045a065ccf8aa" category="list-text">從本月開始到現在、您的工作負載總成本。</block>
+  <block id="1cc2cf546407159fc46856165777a76d" category="list-text">預計成本</block>
+  <block id="a710a8ef9275bd55e0bc8125f0217049" category="list-text">根據您使用模式的分析、在月底的預測成本。</block>
+  <block id="faeccef940f463467d447e92cc1dfd2e" category="list-text">上週錯過了節約效益</block>
+  <block id="c8d9648f3c9f70333dd7f7c046f73114" category="list-text">利用最佳化 Spot 執行個體和保留區、過去七天內可以實現的節約效益。</block>
+  <block id="f7c5dd70e9abbb23cdb81ee75dc3127d" category="list-text">AWS 帳戶支出效率最高</block>
+  <block id="b25c45f4ba2e6148a5a227e7c66eaf84" category="list-text">前 10 大客戶是根據預估額外節約金額的最大金額。</block>
+  <block id="bc10c46f791a5ed5a97c400fda3a64d6" category="paragraph">每個帳戶都會根據目前和其他可能的節約效益、獲得效率分數。預估的額外節約額度、表示運用 Spot 和保留執行個體、可進一步節省多少成本。</block>
+  <block id="46153b60daff1c72219f289abfb3a3f7" category="paragraph">您可以採取下列行動、進一步最佳化您的帳戶：</block>
+  <block id="c1d68901145b2010b1a8aeba75bc991c" category="list-text">* 檢視詳細資料 * ：前往 Spot Cloud Analyzer 的資訊區、檢視您的成本最佳化商機。</block>
+  <block id="ddb875f7987b405235cbee12d6aae606" category="list-text">* 連線 * ：連線尚未管理的帳戶。系統會引導您前往連接帳戶的精靈。</block>
+  <block id="6d3eb204453d122284ed4a432cfdd72a" category="list-text">AWS 帳戶排行</block>
+  <block id="7fb07d9d0284fd6863ef2a7db76e04cf" category="list-text">這是以成本顯示前十大帳戶的長條圖。圖表是根據過去 30 天的支出活動而計算。</block>
+  <block id="3141db86bc2665181620f829e8eb01a8" category="inline-link">深入瞭解 Spot Cloud Analyzer 的「成本分析」頁面</block>
+  <block id="f87962acab06efc931371dbba9b655f5" category="paragraph"><block ref="0b7683cbc9f0ee5f5a4a05bb1d598a4b" category="inline-link-rx"></block>。</block>
+  <block id="880161807749301ac59aa2e2e50748e8" category="section-title">取得完整分析</block>
+  <block id="a4fb91966a6fc1ddb81d36dbaad62eb6" category="paragraph">如Cloud Analyzer 需更多分析與建議、請前往參閱。</block>
+  <block id="cdb47ab3dcbc5b978ba715b20ca2474d" category="paragraph">隨時按一下 * 「 Get Full Analysis* 」（取得完整分析）、即可存取更多圖表與分析、深入建議、使用案例最佳化分析（容器、彈性應用程式與保留）等資訊。</block>
+  <block id="3f833690ee7503fbe541b6256b3d6807" category="paragraph">以下是 Cloud Analyzer 您將在功能介紹中看到的範例：</block>
+  <block id="0df007262bf194f46eb1953f4f3c7078" category="inline-image-macro">這張螢幕擷取畫面顯示「成本分析」頁面、並以「 Spot 」 Cloud Analyzer 為範例。</block>
+  <block id="2acab5c4763d0543a1176c40374553cd" category="paragraph"><block ref="2acab5c4763d0543a1176c40374553cd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="fbe408c237f5b1c0b80f1f32004958d8" category="inline-link">請參閱 Cloud Analyzer 產品頁面以瞭解更多有關其功能的資訊</block>
+  <block id="be047dc506ce8de907952c21921ad701" category="list-text"><block ref="be047dc506ce8de907952c21921ad701" category="inline-link-rx"></block></block>
+  <block id="17dd96462b10711049d52dedde6ddc2b" category="inline-link">查看現場文件以取得 Cloud Analyzer 使用支援的資訊</block>
+  <block id="745d17f34ad4743fc8506242741c7c95" category="list-text"><block ref="745d17f34ad4743fc8506242741c7c95" category="inline-link-rx"></block></block>
+  <block id="07b933213828c1d942943f34617e62b0" category="summary">檢視雲端運算支出的成本分析、找出Cloud Manager的潛在節約效益。</block>
+  <block id="1c87777fc8577c23e4c3acf6e05c6e76" category="doc">運算文件</block>
+  <block id="ce21e7ae4271271294ccbf54c8fd6864" category="summary">NetApp以多種方式支援Cloud Manager。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">取得協助</block>
+  <block id="51719eefc68685ac0e2a11057a44b8be" category="paragraph">NetApp以多種方式支援Cloud Manager及其雲端服務。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
+  <block id="07d41912a6ab6b97216f8cf89e93205c" category="section-title">自我支援</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">這些選項可供免費使用、一天24小時、一週7天：</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知識庫</block>
+  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
+  <block id="76b571fb5edea1c1994fa0ff01f7b1e2" category="paragraph">請搜尋Cloud Manager知識庫、找出有助於疑難排解問題的文章。</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社群</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="7f3490343cad8dc3bfdb72dd5d957e8d" category="paragraph">加入Cloud Manager社群、追蹤後續討論或建立新討論。</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文件</block>
+  <block id="3c313458d6e15dd2c4336e47118d0a8f" category="paragraph">您目前正在檢視的Cloud Manager文件。</block>
+  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto：ng-cloudmanager-feedback@netapp.com [意見反應電子郵件]</block>
+  <block id="bff60abbc46aceed0f73a3a4f6cfb123" category="paragraph">我們非常重視您的意見。提交意見反應、協助我們改善Cloud Manager。</block>
+  <block id="0659d428df833a806e29e65e632d380a" category="section-title">NetApp支援</block>
+  <block id="c91b5a63849b8d2db01014ed33192735" category="paragraph">除了上述的自我支援選項、您也可以與NetApp支援工程師合作、在您啟動支援之後解決任何問題。</block>
+  <block id="6c08c57e382a25a778455184cd9b1a4a" category="list-text">在Cloud Manager中、按一下*「說明」&gt;「支援」*。</block>
+  <block id="f5052c65917d7341726235d4d4941461" category="list-text">在「Technical Support（技術支援）」下選擇可用的選項之一：</block>
+  <block id="bece28b158ab337d9ed24b00d7d02cc7" category="list-text">按一下*致電我們*以尋找NetApp技術支援的電話號碼。</block>
+  <block id="efe81cff8e6f47ec59ef94167b76bf5a" category="list-text">按一下「*開啟問題*」、選取其中一個選項、然後按一下「*傳送*」。</block>
+  <block id="cbb1040836732e478409dacf7e45171a" category="paragraph">NetApp代表將審查您的案例、並盡快回覆您。</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律聲明</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">法律聲明提供版權聲明、商標、專利等存取權限。</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版權</block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商標</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp 、 NetApp 標誌及 NetApp 商標頁面上列出的標章均為 NetApp 、 Inc. 的商標。其他公司與產品名稱可能為其各自所有者的商標。</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">專利</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">如需最新的 NetApp 擁有專利清單、請參閱：</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">隱私權政策</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">開放原始碼</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知檔案提供有關 NetApp 軟體所使用之協力廠商版權與授權的資訊。</block>
+  <block id="4940124e8487cb4ea36f1511a195cf66" category="inline-link-macro">Cloud Manager 3.9 注意事項</block>
+  <block id="c069fcc68c5dfa73ccc99924c836cae9" category="paragraph"><block ref="c069fcc68c5dfa73ccc99924c836cae9" category="inline-link-macro-rx"></block></block>
+  <block id="eece53abc6d84973fe78f6fa978750a8" category="summary">瞭解運算服務的新功能。</block>
+  <block id="490414e0366b091220802d406e52c076" category="doc">新功能</block>
+  <block id="7ee45649520b61796809750e472a8000" category="section-title">2020年12月7日</block>
+  <block id="9dc245f64def9d62941e9ee3f4af4adb" category="section-title">在Cloud Manager和Spot之間進行導覽</block>
+  <block id="429b7972d23af5e411304108791f1c6c" category="paragraph">現在、您可以更輕鬆地在 Cloud Manager 和 Spot 之間進行瀏覽。</block>
+  <block id="6673d1ba63d3b88416bb57a52f24edaf" category="paragraph">全新的「 * 儲存作業 * 」區段可讓您直接導覽至 Cloud Manager 。完成後、您可以從 Cloud Manager 的 * Compute * 索引標籤找到答案。</block>
+  <block id="3d54f0f13a2b982305cfb676b5efc25c" category="section-title">2020年10月18日</block>
+  <block id="776903deac41433ca593263c8812b21c" category="section-title">運算服務簡介</block>
+  <block id="8ecc68a9339de03fc0f6e65490a53645" category="inline-link">Spot Cloud Analyzer 的功能</block>
+  <block id="94bdad82453d71da22fcd69f47559c1c" category="paragraph">善用資源<block ref="f6403c1f0596662bb11f11c4ddde243f" category="inline-link-rx"></block>Cloud Manager現在可以針對您的雲端運算支出進行高階成本分析、並找出可能的節約效益。此資訊可從Cloud Manager * Compute *服務取得。</block>
+  <block id="0947726e3c301f45f25d6d4b3295fcec" category="inline-link">深入瞭解運算服務</block>
+  <block id="b70ff2217d4c493d72369bc7013d42a1" category="paragraph"><block ref="0d930208c139fddb05408afa8bb5cf71" category="inline-link-rx"></block>。</block>
+  <block id="6ae18045fc1ab0bf7898b13f3ef31c9a" category="inline-image-macro">在Cloud Manager中顯示「成本分析」頁面的快照</block>
+  <block id="dfe5d33062cb5ad4c4036bb7e93ff63e" category="paragraph"><block ref="dfe5d33062cb5ad4c4036bb7e93ff63e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="26e6e5fcbea5f9f1e96a87e1f4727945" category="summary">請完成幾個步驟、從 Spot Cloud Analyzer 的資訊區深入分析雲端運算成本。</block>
+  <block id="0a17377f2d00cfdc489595aab3f4cb1a" category="doc">連接 Cloud Analyzer 至 AWS 帳戶</block>
+  <block id="9e117c9326e0082792fc9db4022de033" category="paragraph">將Cloud Analyzer NetApp連結至AWS付款人帳戶、以便開始最佳化雲端運算成本。</block>
+  <block id="82c17f884916312cf836be619c0f30b3" category="list-text">按一下 * 將 AWS 認證資料新增至 Start* 。</block>
+  <block id="d26bbc99ee4f03459f79c4515854e01c" category="list-text">請依照頁面上的步驟連線 AWS 帳戶：</block>
+  <block id="967a3c762720190aa22ef075598669fd" category="list-text">登入AWS管理帳戶。</block>
+  <block id="99e81cf07180944f57414af8f3cbf726" category="list-text">在 AWS 帳戶上設定成本與使用量報告。</block>
+  <block id="539ab65affb84e62793065d7703303c5" category="list-text">執行 CloudForation 範本。</block>
+  <block id="1d9c4b44100c952b0e042fa5de3ac24d" category="list-text">貼上 Spot 角色 ARN 。</block>
+  <block id="59df016e94ef3d379d7e17a78c9353f4" category="inline-link">檢視這些步驟的詳細資料</block>
+  <block id="7d36f7ef084fb0934d1a1a86a6b22649" category="paragraph"><block ref="98a856f3a59c07c2e882d1b19866ae87" category="inline-link-rx"></block>。</block>
+  <block id="83473ceecf18da71bfa5696ac242d0bf" category="inline-image-macro">顯示連線頁面上每個可用欄位的快照。</block>
+  <block id="fbe402e9579140daae0c0cddf837f4b4" category="paragraph"><block ref="fbe402e9579140daae0c0cddf837f4b4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c89159332a937ddbad2a51dd14e5c43d" category="inline-link-macro">分析您的運算成本</block>
+  <block id="d22c459c62854d20003f9895eea37a89" category="paragraph">從系統開始處理 AWS 帳戶資料。 Cloud Analyzer如果您有多個帳戶、Cloud Analyzer 那麼在管理帳戶下的所有連結帳戶、均以唯讀功能開始執行。如果您想要取得更多有關這些帳戶可能節約成本的詳細資料、您也需要將這些帳戶連結起來。當您連線帳戶時、您可以找到更多詳細資料 <block ref="3073dfe60a6ccd32fe5c511a4c14196f" category="inline-link-macro-rx"></block>。</block>
+  <block id="6d79ef20eb182089395ef09e4c198ccb" category="summary">Cloud Manager 運用 Spot Cloud Analyzer 的功能提供雲端運算支出的高階成本分析、並找出可能的節約效益。</block>
+  <block id="dc512bfecf857e8dee6ac30c7a237a2f" category="doc">瞭解運算服務</block>
+  <block id="ea197bae82effb87bc75fbe595602d2b" category="inline-link">Spot Cloud Analyzer 的服務</block>
+  <block id="87f25268f4538def4b3cbb0148369b1b" category="paragraph">善用資源<block ref="4b96c8339310a566633babc222b55825" category="inline-link-rx"></block>Cloud Manager 可針對您的雲端運算支出提供高階成本分析、並找出可能的節約效益。</block>
+  <block id="3fb7a38542fc8dc9bd67775c1efa0754" category="paragraph">NetApp 是一款雲端基礎架構管理解決方案、使用進階分析功能、提供雲端成本的可見度與洞見。 Cloud Analyzer它顯示您可以在何處最佳化這些成本、並讓您只要按幾下滑鼠、就能使用 SPOT 的持續最佳化產品組合來實作最佳化。</block>
+  <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">功能</block>
+  <block id="b13786f788868ed1bede397373dc9471" category="list-text">這是一項成本分析、顯示本月的目前成本、每月預計成本、以及未達到的節約效益</block>
+  <block id="22940f2df588dbac7740199a7b1c8cc9" category="list-text">依帳戶檢視支出效率、包括預估的額外節約效益</block>
+  <block id="721a2bc621b10ff4fc87abb9ef228a1c" category="list-text">指向 Spot Cloud Analyzer 的連結、以取得所有帳戶支出的更深入詳細資料</block>
+  <block id="902e65d33784bd8924eb05e622aa2dda" category="section-title">支援的雲端供應商</block>
+  <block id="c2a13a8b969b516ac9af28a61843732c" category="paragraph">AWS 支援此服務。</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">成本</block>
+  <block id="f534e70d23b20b69790b5281217a7257" category="paragraph">透過 Cloud Manager 使用這項服務不需付費。</block>
+  <block id="7c06c52c4e76bd8d67d4da904f426cb1" category="section-title">如何搭配 Cloud Manager 運作 Cloud Analyzer</block>
+  <block id="4d8eb0bc0298d7b1b0ea3f4f618ea0e1" category="paragraph">在與 Cloud Analyzer Cloud Manager 的高度整合中、整合了下列功能：</block>
+  <block id="1fdce7e9a0a4116c0c33b13e949d0e94" category="list-text">您可以按一下* Compute *、然後連線AWS管理帳戶。</block>
+  <block id="375b86c47403de1db7caffdd4c5ddfe6" category="list-text">NetApp 會依照下列方式設定您的環境：</block>
+  <block id="c3c918d3946255bf9b03b6e74b5b3f36" category="list-text">在 Spot 平台中建立組織。</block>
+  <block id="160fee406155d1c4308599be28a10850" category="list-text">寄送歡迎您的電子郵件、立即通知您。</block>
+  <block id="d22621cbc677aa8d88d1a0df694b9d60" category="paragraph">您可以使用 Cloud Central 和 Cloud Manager 所使用的相同單一登入認證、登入 Spot 服務。</block>
+  <block id="d68a9d5829a20c130e867fef2a4695c6" category="list-text">從系統開始處理 AWS 帳戶資料。 Cloud Analyzer</block>
+  <block id="1caf35c7462aa72e36bfd6de6b5f6d8e" category="list-text">在 Cloud Manager 中、「運算」頁面會重新整理、您可以使用這些資訊來深入瞭解過去、目前及未來的雲端成本。</block>
+  <block id="d324de754d17bd272e8971296440d6f6" category="list-text">您可以隨時按一下 * 「 Get Full Analysis* （取得完整分析）」、前往 Spot Cloud Analyzer 的介紹、完整分析您的雲端支出與節約機會。</block>
+  <block id="4c5d94eb4dc4bff93f6a96a08ab7b244" category="section-title">資料安全</block>
+  <block id="927d8afbddd6abdbda7791916303bd5e" category="paragraph">靜態資料會在靜止時加密、不會儲存任何帳戶的認證資料。 Cloud Analyzer</block>
+  <block id="3c10116b37b407ac79092a38ffb292e4" category="summary">在您透過NetApp技術支援開啟支援案例之前、您必須先將NetApp支援網站帳戶新增至Cloud Manager、然後註冊以取得支援。</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">註冊以取得支援</block>
+  <block id="aeaeee19a7c393222e407a525cf01991" category="section-title">新增一個NSS帳戶</block>
+  <block id="de2241fea60d98698faaa196ff73ee80" category="paragraph">「支援儀表板」可讓您從單一位置新增及管理所有NetApp支援網站帳戶。</block>
+  <block id="5be2593b5948f30a15179a32daa73ee2" category="inline-link">註冊一項</block>
+  <block id="14b05cf61f1aba58d38b393e69b69538" category="list-text">如果您還沒有 NetApp 支援網站帳戶、<block ref="0a8e82436ea73fe635862cfba3acf101" category="inline-link-rx"></block>。</block>
+  <block id="0046efb3377274ff3215d4b30269809e" category="list-text">在Cloud Manager主控台右上角、按一下「說明」圖示、然後選取*「支援」*。</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">「說明」功能表的快照、其中「支援」是第一個列出的選項</block>
+  <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">按一下「*」「nss管理」&gt;「新增nssAccount」*。</block>
+  <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">出現提示時、按一下*繼續*以重新導向至Microsoft登入頁面。</block>
+  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp使用Microsoft Azure Active Directory做為身分識別供應商、提供專為支援與授權所設計的驗證服務。</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">在登入頁面上、提供您的NetApp支援網站註冊電子郵件地址和密碼、以執行驗證程序。</block>
+  <block id="f5fb4199485234c409525f430b737010" category="paragraph">此動作可讓Cloud Manager使用您的NSS帳戶。</block>
+  <block id="b4c6a2f33e7b2a38495546b8d5cd8e84" category="paragraph">附註：帳戶必須是客戶層級的帳戶（非來賓帳戶或臨時帳戶）。</block>
+  <block id="fc65ebd4739f2f8ca46062a8280faea9" category="section-title">註冊您的帳戶以取得支援</block>
+  <block id="3e080914efe0d0ca025439fbb68d437f" category="paragraph">支援註冊可從支援儀表板的Cloud Manager取得。</block>
+  <block id="fb07bf6b7698dbe934b8b2164d915484" category="list-text">在* Resources（資源）*選項卡中，單擊* Register for Support*（註冊以獲得支持*）。</block>
+  <block id="392fb0270d0d84dbc3fdf8c67da1e5ad" category="list-text">選取您要登錄的NSS認證、然後按一下「*登錄*」。</block>
+  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">所有Cloud Manager文件</block>
+  <block id="fc9195dd2727e87e1a0e146782847649" category="sidebar">運算文件</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
+  <block id="39b47babddc2784c0d74d47260b51730" category="sidebar">連線您的AWS帳戶</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識與支援</block>
+  <block id="3333dce1554e82e74322ec5666134c71" category="sidebar">使用運算服務</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">部落格社群</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp社群</block>
+  <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central部落格</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">雲端網路研討會</block>
+</blocks>
